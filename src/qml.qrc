@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FigureModel.qml</file>
+        <file>imgs/Circle.png</file>
+        <file>imgs/Squere.png</file>
+        <file>imgs/Star.png</file>
+        <file>imgs/Triangle.png</file>
+    </qresource>
+</RCC>
